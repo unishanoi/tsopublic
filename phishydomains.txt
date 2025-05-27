@@ -170,3 +170,4 @@ encrypt-mail.net
 strong-encryption.com
 loginprotected.com
 authorizednotifications.com
+db.safemessaging.org
