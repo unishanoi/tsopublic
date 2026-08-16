@@ -1,12 +1,9 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-2,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv_202606_2.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
-3,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv_202606_3.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
-6,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv_202606_6.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
-7,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv_202606_7.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
-10,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv_202606_10.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
-11,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv_202606_11.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
-12,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv_202606_12.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
-14,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv_202606_14.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
-15,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv_202606_15.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
-16,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv_202606_16.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
-17,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv_202606_17.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
+2,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv-2026-08-01.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
+3,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv-2026-08-02.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
+6,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv-2026-08-03.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
+7,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv-2026-08-04.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
+10,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv-2026-08-05.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
+11,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv-2026-08-06.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
+12,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv-2026-08-07.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
+14,https://raw.githubusercontent.com/unishanoi/tsopublic/refs/heads/main/exhibit/atv-2026-08-08.jpg,00:00:30,01:00:00,1/1/19 00:00,12/31/30 23:59,yes
